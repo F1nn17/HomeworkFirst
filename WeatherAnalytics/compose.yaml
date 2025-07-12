@@ -1,0 +1,4 @@
+services:
+  weather_analytics:
+    ports:
+      - "8083:8083"

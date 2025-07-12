@@ -1,0 +1,4 @@
+services:
+  weather_producer:
+    ports:
+      - "8081:8081"

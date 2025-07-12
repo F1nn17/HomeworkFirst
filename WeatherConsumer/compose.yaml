@@ -1,0 +1,4 @@
+services:
+  weather_consumer:
+    ports:
+      - "8082:8082"
